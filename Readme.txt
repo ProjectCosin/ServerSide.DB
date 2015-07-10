@@ -1,0 +1,1 @@
+ServerSide.DB这个REPO中主要包含了整个系统的数据库创建脚本，这套脚本能够支持 ServerSide.Core 与 ServerSide.API 这两个REPO中源码的运行。
